@@ -1,0 +1,12 @@
+//html file code
+//index.html
+
+<html>
+<p> Baymax loves contributing to Scorelab</p>
+
+</html>
+
+
+//hosting server (I used python)
+
+python -m SimpleHTTPServer 7800
